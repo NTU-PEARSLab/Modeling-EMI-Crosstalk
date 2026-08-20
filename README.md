@@ -7,7 +7,7 @@ IEEE Xplore Link: (https://ieeexplore.ieee.org/document/11653363)
 
 These are the files used for analyzing the difference between the measured EMI Spectrum data and the model files used to the generate key graphs used in the paper. Please refer to the paper for the descriptions.
 
-Zip File: EMI-Crosstalk_Matlab_Files_20260505
+Zip File: EMI-Crosstalk_Files_20260505
 
 Contains: 
 Folder: Figure 13 - SPICE Simulation files referred to in Figure 13 of the paper

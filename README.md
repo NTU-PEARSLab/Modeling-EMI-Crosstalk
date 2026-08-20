@@ -12,22 +12,33 @@ Zip File: EMI-Crosstalk_Matlab_Files_20260505
 Contains: 
 Folder: Figure 13 - SPICE Simulation files referred to in Figure 13 of the paper
 > Simulation file_HV DM.sxsch
+
 > Hierarchy component_LISN.sxcmp
 
 Folder: Figure 14 - Matlab .m files, extracted data, and figure files for Figure 14 of the paper
 > A_HV_DM_comparison.m
+
 > B_Error_Calculation.m
+
 > HV DM_measured.csv
+
 > HV DM_simulated.xlsx
+
 > Figure14.fig
+
 > Figure14-peaks.fig
 
 Folder: Figure 15 - Matlab .m files, extracted data, and figure files for Figure 15 of the paper
 > A_HV_CM_comparison.m
+
 > B_Error_Calculation.m
+
 > HV CM_measured.csv
+
 > HV CM_simulated.xlsx
+
 > Figure15.fig
+
 > Figure15-peaks.fig
 
 # Citation Information

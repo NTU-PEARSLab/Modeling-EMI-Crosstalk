@@ -3,7 +3,7 @@ These are resources for the article “Modeling and Mitigating Electromagnetic I
 
 IEEE Xplore Link: (https://ieeexplore.ieee.org/document/11653363)
 
-# MATLAB Files
+# EMI Crosstalk SPICE and Matlab Files
 
 These are the files used for analyzing the difference between the measured EMI Spectrum data and the model files used to the generate key graphs used in the paper. Please refer to the paper for the descriptions.
 
